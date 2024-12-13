@@ -5,15 +5,19 @@ on:
     inputs:
       framework_jar_url:
         description: 'URL to download framework.jar'
+        default: 'https://dumps.tadiphone.dev/dumps/xiaomi/liuqin/-/raw/missi_pad_cn-user-14-UKQ1.230804.001-V816.0.7.0.UMYCNXM-release-keys/system/system/framework/framework.jar'
         required: true
       services_jar_url:
         description: 'URL to download services.jar'
+        default: 'https://dumps.tadiphone.dev/dumps/xiaomi/liuqin/-/raw/missi_pad_cn-user-14-UKQ1.230804.001-V816.0.7.0.UMYCNXM-release-keys/system/system/framework/services.jar'
         required: true
       miui_services_jar_url:
         description: 'URL to download miui-services.jar'
+        default: 'https://dumps.tadiphone.dev/dumps/xiaomi/liuqin/-/raw/missi_pad_cn-user-14-UKQ1.230804.001-V816.0.7.0.UMYCNXM-release-keys/system_ext/framework/miui-services.jar'
         required: true
       miui_framework_jar_url:
         description: 'URL to download miui-framework.jar'
+        default: 'https://dumps.tadiphone.dev/dumps/xiaomi/liuqin/-/raw/missi_pad_cn-user-14-UKQ1.230804.001-V816.0.7.0.UMYCNXM-release-keys/system_ext/framework/miui-framework.jar'
         required: true
       android_api_level:
         description: 'Android API level'
