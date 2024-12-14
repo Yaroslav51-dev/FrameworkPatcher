@@ -5,7 +5,7 @@ on:
     inputs:
       framework_jar_url:
         description: 'URL to download framework.jar'
-        default: 'https://dumps.tadiphone.dev/dumps/xiaomi/liuqin/-/raw/missi_pad_cn-user-14-UKQ1.230804.001-V816.0.7.0.UMYCNXM-release-keys/system/system/framework/framework.jar'
+        default: 'https://file.io/AK9usa8xxZyK'
         required: true
       services_jar_url:
         description: 'URL to download services.jar'
