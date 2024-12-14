@@ -9,7 +9,7 @@ on:
         required: true
       services_jar_url:
         description: 'URL to download services.jar'
-        default: 'https://file.io/c6UyBXIIKokH'
+        default: 'https://file.io/uvuvhtGgv57N'
         required: true
       miui_services_jar_url:
         description: 'URL to download miui-services.jar'
