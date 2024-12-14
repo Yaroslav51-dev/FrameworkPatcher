@@ -5,7 +5,7 @@ on:
     inputs:
       framework_jar_url:
         description: 'URL to download framework.jar'
-        default: 'https://file.io/AK9usa8xxZyK'
+        default: 'https://file.io/QgQs6qJP02Hq'
         required: true
       services_jar_url:
         description: 'URL to download services.jar'
