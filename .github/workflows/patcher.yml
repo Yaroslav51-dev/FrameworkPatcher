@@ -5,7 +5,7 @@ on:
     inputs:
       framework_jar_url:
         description: 'URL to download framework.jar'
-        default: 'https://file.io/QgQs6qJP02Hq'
+        default: 'https://drive.usercontent.google.com/u/0/uc?id=1-1X1G_r5apjwirIP9LKkqrhH1CsYJ_L5&export=download'
         required: true
       services_jar_url:
         description: 'URL to download services.jar'
